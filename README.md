@@ -12,3 +12,7 @@ AI introductory projects
    Experimented with various k values (such as 2)
    Changed train/test split from original 80/20 to 90/10 to observe how accuracy was affected
    Accuracy increased to 98.33%
+3) **Sentiment Analysis Project**
+   Experimented with sklearn in deepnote
+   Inserting text to classify sentiment as positive, neutral, or negative
+   I plan to expand on this project by doing multiple larger batches of text
